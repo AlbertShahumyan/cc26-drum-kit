@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dd0vj0j13p2kk"]
+
+[ext_resource type="Script" uid="uid://ddoess6vh4uhp" path="res://drum_kit.gd" id="1_vx4vd"]
+
+[node name="DrumKit" type="Node2D" unique_id=1229621166]
+script = ExtResource("1_vx4vd")
