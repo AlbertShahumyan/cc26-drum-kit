@@ -128,4 +128,4 @@ func _draw():
 	draw_string(ThemeDB.fallback_font, Vector2(20, screen.y - 10), "A=Bass  S=Snare  D=HiHat  G=Crash  H=Tom", HORIZONTAL_ALIGNMENT_LEFT, -1, 15, Color(0.6, 0.6, 0.6))
 
 func _process(delta):
-	queue_redraw()
+	queue_redraw ()
