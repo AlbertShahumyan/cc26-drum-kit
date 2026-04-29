@@ -1,7 +1,7 @@
-# CC26 Drum Kit
+# CC26 Drum Kit (School of Rock)
 
 ## About
-An interactive drum kit built in Godot 4 for the Creative Coding School of Rock assignment
+An interactive drum kit with visuals built in Godot 4 for the Creative Coding School of Rock assignment
 
 ## How to Play
 - A = Bass Drum
@@ -13,7 +13,8 @@ An interactive drum kit built in Godot 4 for the Creative Coding School of Rock 
 ## Features
 - Drum sounds generated using sine waves and noise
 - Visual drum kit that lights up when you hit each drum
-- Built entirely in GDScript using Godot 4
+- After being hit each drum produces a colourful ripple
+- Firey balls in the background that float upwards and increase in size
 
 ## Made By
 Albert Shahumyan
