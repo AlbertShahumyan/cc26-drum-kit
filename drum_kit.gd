@@ -44,8 +44,8 @@ func play_bass():
 	var sr = 44100.0
 	for i in int(sr * 0.4):
 		var t = float(i) / sr
-		var freq = 150.0 * exp(-t * 18.0) + 40.0
-		var amp = exp(-t * 6.0)
+		var freq = 20.0 * exp(-t * 20.0) + 40
+		var amp = exp(-t * 2.00)
 		pb.push_frame(Vector2(amp * (sin(TAU * freq * t) * 0.8 + randf_range(-1.0, 1.0) * 0.2), amp * (sin(TAU * freq * t) * 0.8 + randf_range(-1.0, 1.0) * 0.2)))
 
 func play_snare():

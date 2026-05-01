@@ -18,3 +18,6 @@ An interactive drum kit with visuals built in Godot 4 for the Creative Coding Sc
 
 ## Made By
 Albert Shahumyan
+
+## YouTube link for group song
+https://www.youtube.com/watch?v=7xOdZDb6sjg
